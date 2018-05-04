@@ -1,0 +1,27 @@
+body{
+	margin: 0px;
+}
+header{
+	background-image: url(../img/back5.jpg);
+	padding: 10px;
+}
+h1{
+	color: #F08080;
+	background-color: #DCDCDC;
+	font-size: 18px;
+}
+h2{
+	color: red ;
+	background-color: #DCDCDC;
+	font-size: 24px;
+}
+p{
+	color: gray;
+	padding-left: 50px;
+	text-align: justify;
+	padding-right: 50px;
+}
+footer{
+	background-color: pink;
+	padding: 25px;
+}

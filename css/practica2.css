@@ -1,0 +1,36 @@
+body{
+	margin: 0px;
+}
+header{
+	background-color: pink;
+	text-align: center;
+	padding: 10px;
+}
+.image{
+	float: left;
+}
+article{
+	margin-bottom: 50px
+}
+footer{
+	background-image: url(../img/pastel.jpg);
+	clear: both;
+	padding: 30px;
+	text-align: left;
+	color: red;
+	font-size: 25px;
+}
+h2{
+	color: red;
+	font-size: 22px;
+}
+h3{
+	color: red;
+	font-size: 22px;
+}
+.para{
+	font-size: 24px;
+	color: blue;
+	text-align: justify;
+	padding-right: 20px;
+}
